@@ -67,7 +67,7 @@ local Root = HumanoidRootPart
 Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/UI/refs/heads/main/ui_BananaHub_final.lua"))()
 
 Window = Library:CreateWindow({
-    Title = "HDanh Hub",
+    Title = "khanh Hub",
     Desc = "- Blox Fruit",
     Image = "rbxassetid://123613996022560"
 })
@@ -12060,4 +12060,4 @@ Tabs.Misc:AddButton({
 })
 
 -- ===============================================================
-print('✅ HDanh Hub - Tất cả tính năng đã được load!')
+print('✅ khanh Hub - Tất cả tính năng đã được load!')
